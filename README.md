@@ -7,7 +7,7 @@ ThermoConvert is a lightweight and versatile temperature conversion tool written
 
 - [Features](#features)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshot)
 - [Contributing](#contributing)
 
 ## Features
@@ -28,7 +28,7 @@ git clone https://github.com/your-username/thermo-convert.git
 ```bash
 cd thermo-convert
 ```
-## Screenshot:
+## Screenshots:
 ![](https://github.com/Shreya2012p/TempConvertPro/assets/96654167/ec1c6b91-8175-4234-a318-fc93d3c37a65)
 
 ![](https://github.com/Shreya2012p/TempConvertPro/assets/96654167/bf4c015a-a312-4dfd-8f8d-a3fb6e041373)
